@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedaminkhaled
 - 👀 I’m interested in data
-- 🌱 I’m currently learning webscrapping
+- 🌱 I’m currently learning rust
 
 - 📫 How to reach me : email: ahmedaminkhaled21@gmail.com
   
